@@ -26,6 +26,19 @@ To get started with this project, follow these steps:
 2. Set up your **Python environment** and install the required libraries.
 3. Run the Jupyter notebooks to experiment with different models and hyperparameters.
 
+# Use pip to install the following Python libraries and their versions
+tensorflow==2.6.0
+keras==2.6.0
+scikit-learn==0.24.2
+keras-tuner==1.0.3
+matplotlib==3.4.3
+
+# Additional libraries and versions, if needed
+# library_name==version
+
+# You can install all these libraries at once using the following command:
+# pip install -r requirements.txt
+
 ## Hyperparameter Tuning
 
 One of the project's highlights is the **hyperparameter tuning** process. We use **Keras Tuner** to efficiently search for optimal hyperparameters and enhance model performance.
