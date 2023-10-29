@@ -25,8 +25,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine.
 2. Set up your **Python environment** and install the required libraries.
 3. Run the Jupyter notebooks to experiment with different models and hyperparameters.
-
-### Use pip to install the following Python libraries and their versions
+4. Use pip to install the following Python libraries and their versions :
 
 tensorflow==2.6.0
 keras==2.6.0
@@ -35,7 +34,8 @@ keras-tuner==1.0.3
 matplotlib==3.4.3
 
 
-### You can install all these libraries at once using the following command:
+You can install all these libraries at once using the following command:
+
 pip install -r requirements.txt
 
 ## Hyperparameter Tuning
