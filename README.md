@@ -1,6 +1,6 @@
 # Deep Learning Image Classification with Hyperparameter Tuning
 
-This repository contains a **deep learning project** for image classification using neural networks. The goal is to develop a highly accurate image classification model by fine-tuning hyperparameters and exploring various neural network architectures.
+This repository contains a **deep learning project** for image classification using neural networks. The goal is to develop a highly accurate image classification model by fine-tuning hyperparameters and exploring various neural network architectures, to recognize handwritten Farsi letters.(Similar to MNIST problem but for Farsi)
 
 ## Project Overview
 
